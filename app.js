@@ -157,4 +157,3 @@ window.open(whatsappLink, "_blanck");
     "The total amount is " + finalDollars + "$ and " + finalCents + " cents"
   );
 };
-
